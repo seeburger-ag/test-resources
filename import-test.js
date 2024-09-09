@@ -1,1 +1,2 @@
-iWasHere = true;
+const iWasHere = true;
+module.exports = { iWasHere };
