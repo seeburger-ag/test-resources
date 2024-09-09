@@ -1,2 +1,2 @@
 const iWasHere = true;
-module.exports = { iWasHere };
+export const iWasHereExported = true;
